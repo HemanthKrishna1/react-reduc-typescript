@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Fetch the TODO List. From Instructor Stephen Grider 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
